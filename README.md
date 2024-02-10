@@ -21,9 +21,7 @@ This project implements a graphical user interface (GUI) for machine learning ta
 ## Usage
 
 1. Run the GUI:
-    ```
-    python main.py
-    ```
+
 
 2. Click on the "Load Data" button to load your dataset in CSV format.
 3. After loading the data, click on the "Start Processing" button to begin training the models.
